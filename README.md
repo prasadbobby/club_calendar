@@ -1,6 +1,6 @@
 <h1 align="center"> Club Calendar </h1><br>
 
-<p align="center">
+<p align="center" class="test">
   <a href="Club Calender">
     <img alt="Club Calender" title="GitPoint" src="https://github.com/iiitv/club_calender/blob/master/assets/icons/CC-Logo(1).png" width="170">
   </a>
